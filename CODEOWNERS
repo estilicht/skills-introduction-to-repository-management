@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @estilicht
+/src/backend/database.py      @estilicht
+/src/backend/routers/auth.py  @estilicht
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @estilicht
